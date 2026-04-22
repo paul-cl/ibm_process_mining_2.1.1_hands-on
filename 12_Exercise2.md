@@ -256,8 +256,8 @@
 7. `Key findings` (B)와 함께 평균 COST 차트 (D)도 확인합니다.
 8. 스크롤을 내려 프로세스 비용 섹션을 확인합니다.
 
-   ![Figure - Page 62](images_v2/page062_img065.png)
-
+   <!-- ![Figure - Page 62](images_v2/page062_img065.png) -->
+      ![alt text](images_v2/page062_img065_1.png)
 9. `Recommended actions` (A)를 클릭합니다.
    IBM Process Mining이 3가지 권장 사항을 제시합니다. 앞서 수동으로 분석한 결과와 동일한 사용자가 식별되었음을 확인합니다 (B). IBM Process Mining은 해당 사용자에게 초안 이메일을 보낼 것을 권장합니다.
 
